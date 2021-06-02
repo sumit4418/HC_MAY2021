@@ -1,0 +1,4 @@
+cmd 
+copy file
+github download 
+how to open account in git hub
